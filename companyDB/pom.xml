@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.beer</groupId>
-	<artifactId>xap</artifactId>
+	<artifactId>comanyDB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>xap</name>
 	<description>Spring Boot-Application</description>
